@@ -1,3 +1,4 @@
 rec/
 data/
 .DS_Store
+logs/
