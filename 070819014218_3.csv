@@ -1,8 +1,0 @@
-round_epochs,loss,lr,lr,n_samples,n_units,batch_size,epochs,optimizer
-10,0.009968931889161467,0.003,0.003,100,8,10,10,<class 'keras.optimizers.Adam'>
-10,0.01718427083455026,0.01,0.01,100,16,10,10,<class 'keras.optimizers.Adam'>
-10,0.008305214187130332,0.003,0.003,100,4,10,10,<class 'keras.optimizers.Adam'>
-10,0.011825889879837632,0.01,0.01,100,8,10,10,<class 'keras.optimizers.Adam'>
-10,0.01025531799532473,0.003,0.003,100,16,10,10,<class 'keras.optimizers.Adam'>
-10,0.008354909494519233,0.001,0.001,100,8,10,10,<class 'keras.optimizers.Adam'>
-10,0.014241612385958433,0.001,0.001,100,4,10,10,<class 'keras.optimizers.Adam'>
