@@ -1,0 +1,2 @@
+model_checkpoint_path: "01_gru_12_units_01"
+all_model_checkpoint_paths: "01_gru_12_units_01"
