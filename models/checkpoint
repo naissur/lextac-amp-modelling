@@ -1,2 +1,2 @@
-model_checkpoint_path: "07_lstm_1_layer_12_units_01"
-all_model_checkpoint_paths: "07_lstm_1_layer_12_units_01"
+model_checkpoint_path: "08_lstm_1_layer_12_units"
+all_model_checkpoint_paths: "08_lstm_1_layer_12_units"
