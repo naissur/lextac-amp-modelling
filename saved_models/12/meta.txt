@@ -1,0 +1,5 @@
+input layer: dense_21/BiasAdd
+
+N_WINDOW_POINTS = 48
+
+train_loss = 0.0327
